@@ -7,7 +7,7 @@ date: 08/27/2025
 date-format: long
 
 logo: img/PHlogo.svg
-footer: Slides {{< iconify streamline:creative-commons-solid >}}-{{< iconify fa6-brands:creative-commons-by >}}-licenced at https://ogy.de/merk026
+footer: Slides {{< iconify streamline:creative-commons-solid >}}-{{< iconify fa6-brands:creative-commons-by >}}-licenced at https://ogy.de/merk-EARLI25
 
 format: 
   revealjs:
