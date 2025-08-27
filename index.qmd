@@ -33,13 +33,13 @@ glossary:
 ::::::: columns
 :::: {.column width="40%"}
 ::: fragment
-![](img/dogfooding.png){width="100%"}
+![](img/dogfooding.jpg){width="80%" fig-alt="Image created with DALLE2 with the prompt 'Make me funny cartoonish picture for the slogan 'eat your own dogs food'"}
 :::
 ::::
 
 :::: {.column width="60%"}
 ::: fragment
-![See @hattie2007](img/FeedCircle.svg){width="80%"}
+![@hattie2007](img/FeedCircle.svg){width="90%"}
 :::
 ::::
 :::::::
@@ -56,7 +56,7 @@ glossary:
     -   **RQ**: Which are the effects of two differently structured FA approaches on teachers’ beliefs (acceptability, feasibility) and behavior (fidelity, sustainability) over the implementation process of one school year?
     -   **Feed Up**: You aim at estimating **causal effects** along an explanatory research question. Hence, **internal validity** seems key to me.
 -   **Paper 2** [@ehlert2025]:
-    -   **RQ**: Do teachers’ beliefs \[...\] and behavior \[...\] change longitudinally during the implementation process? Can distinct clusters with specific trends be identified \[...\]?
+    -   **RQ**: How do teachers’ beliefs \[...\] and behavior \[...\] change longitudinally during the implementation process? Can distinct clusters with specific trends be identified \[...\]?
     -   **Feed Up**: You are going to describe **change trajectories** in a population and exploratoryly identify profiles (in these changes). The first aim requires especially **external validity** and identifying profiles require sample heterogeneity.
 
 ## Feed Up {{< iconify fa7-solid:circle-arrow-up >}} {.smaller}
