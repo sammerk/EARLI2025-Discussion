@@ -79,6 +79,9 @@ glossary:
     -   While the professional development program (BISS-Transfer) promises comparably high external validity due to it's sheer size (4000+ schools/kindergartens) the selection mechanisms of the sample at hand remained unclear to me.
     -   Presenting smoothed trends with inferential uncertainty bands fits the aim of describing intraindividual changes over time very well.
 
+:::: {.footer}
+::::
+
 ## Feed Back {{< iconify fa7-solid:circle-arrow-left >}} {.smaller}
 -   **Paper 3:**
     -   The roll-out of the programme for 
@@ -103,8 +106,16 @@ glossary:
    - Be transparent about your sample selection mechanisms.
    - Give credit to conceptual replications
 
+:::: {.footer}
+::::
 
+##
 
+[**The Process and the Effects of Teacher Professional Development Interventions**]{style="text-align: center; font-size: 1.28em; color:#236327;"}
+
+<br>
+
+![](img/FeedCircle.svg){fig-align="center" width="40%"}
 
 ## References {.smaller}
 
