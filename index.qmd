@@ -1,0 +1,112 @@
+---
+title: Discussion
+subtitle: The Process and the Effects of Teacher Professional Development Interventions
+author: Samuel Merk 
+
+date: 08/27/2025
+date-format: long
+
+logo: img/PHlogo.svg
+footer: Slides {{< iconify streamline:creative-commons-solid >}}-{{< iconify fa6-brands:creative-commons-by >}}-licenced at https://ogy.de/merk026
+
+format: 
+  revealjs:
+    slide-number: c
+    citations-hover: true
+    footnotes-hover: true
+
+brand: _template/_brand.yml    
+
+lang: de
+
+bibliography: references.bib
+
+
+glossary:
+  path: glossary.yml
+  popup: click
+  show: true
+---
+
+## Conceptual idea of this discussion {.center}
+
+::::::: columns
+:::: {.column width="40%"}
+::: fragment
+![](img/dogfooding.png){width="100%"}
+:::
+::::
+
+:::: {.column width="60%"}
+::: fragment
+![See @hattie2007](img/FeedCircle.svg){width="80%"}
+:::
+::::
+:::::::
+
+::: notes
+-   Yeah, so thank you all for your inspiring presentations and especially thank you - Elmar - for substituting Mareike who had the idea for this symposium.
+-   As »The Process and the Effects of Teacher Professional Development Interventions« lies at the very heart of my research interests I really appreciate the invitation to discuss this topic with you all.
+-   And as all presenters highlighted the idea of evidence informed practice I thought it might be I good idea to »eat our own dogs food« aka »practice what we preach« in that sense that I take our own advice seriosly and adapt my 10 minutes of discussion to the evidence based idea of distinguishing between feed up, feed back and feed forward
+:::
+
+## Feed Up {{< iconify fa7-solid:circle-arrow-up >}} {.smaller}
+
+-   **Paper 1** [@aust2025]:
+    -   **RQ**: Which are the effects of two differently structured FA approaches on teachers’ beliefs (acceptability, feasibility) and behavior (fidelity, sustainability) over the implementation process of one school year?
+    -   **Feed Up**: You aim at estimating **causal effects** along an explanatory research question. Hence, **internal validity** seems key to me.
+-   **Paper 2** [@ehlert2025]:
+    -   **RQ**: Do teachers’ beliefs \[...\] and behavior \[...\] change longitudinally during the implementation process? Can distinct clusters with specific trends be identified \[...\]?
+    -   **Feed Up**: You are going to describe **change trajectories** in a population and exploratoryly identify profiles (in these changes). The first aim requires especially **external validity** and identifying profiles require sample heterogeneity.
+
+## Feed Up {{< iconify fa7-solid:circle-arrow-up >}} {.smaller}
+
+-   **Paper 3** [@jakobson2025]:
+    -   **RQ**: How are teachers’ reading related declarative, procedural, and pedagogical knowledge related to their perceived skills? How does participating in the practice-based TPD program change teachers’ metacognitive knowledge and perceived skills?
+    -   **Feed Up**: You are looking a) for a **descriptive covariation** (knowledge $\leftrightarrow$ perceived skills) and b) for a **causal effect** (TPD $\rightarrow$ meta-cognitive knowledge, perceived skills). Hence, both **internal** and **external validity** seem key to me.
+-   **Paper 4** [@putzeys2025]:
+    -   **RQ**:To what extent can a script \[...\] impact regulation-related interactions and text quality \[...\]?
+    -   **Feed Up**: You are going to **causally explain**  effects of the script and therefore again **internal validity** is a must have.
+
+## Feed Back {{< iconify fa7-solid:circle-arrow-left >}} {.smaller .scrollable}
+-   **Paper 1:**
+    -   Cluster randomization fosters internal validity while maintaining ecological settings [@hox2017].
+    -   Longitudinal design controls for time constant confounders [@rohrer2023].
+    -   Absence of control group limits internal validity [@shadish2001].
+    -   Likewise the somewhat eclectic independent variable (e.g. dependence of feedback modality \[conversation/writing\] and formalization).
+-   **Paper 2:**
+    -   Multiplier mediated professional development seems highly ecologically valid (for Germany) and the results are impressive (e.g. large increase in self-reported adaptivity).
+    -   While the professional development program (BISS-Transfer) promises comparably high external validity due to it's sheer size (4000+ schools/kindergartens) the selection mechanisms of the sample at hand remained unclear to me.
+    -   Presenting smoothed trends with inferential uncertainty bands fits the aim of describing intraindividual changes over time very well.
+
+## Feed Back {{< iconify fa7-solid:circle-arrow-left >}} {.smaller}
+-   **Paper 3:**
+    -   The roll-out of the programme for 
+        - different teachers (special education vs. general education) 
+        - at different qualification levels (pre-service vs. in-service) enhances the external validity.
+    -   Sample sizes and unclear selection meachisms into the professional development program may harm both, internal and external validity.
+-   **Paper 4:**
+    -   Ecological valid setting (academic writing course).
+    -   Waitlist control group design allows a compromise of external and internal validity.
+    -   Within-person design assumes no primacy/recency effects.
+
+## Feed Forward {{< iconify fa7-solid:circle-arrow-right >}} {.smaller .scrollable}
+- Ecological validity: 
+   - Keep it high by using »real-world materials« (P1-4), existing PD structures and institutions (P2,4), cluster randomized field trials (P1) and waitlist control groups (P4).
+- Internal validity:
+   - Be clear (to yourself and your readers) about your strategy for identifying causal effects.
+   - Pre-Register your hypotheses and your analysis plan.
+   - Use equivalence testing or Bayesian statistics to distinguish between »no effect« and »no evidence for an effect« if your *p*-values are not significant.
+   - Give credit to direct replications
+- External validity:
+   - Keep working with heterogeneous samples (P1-2) from your target populations (P1-4).
+   - Be transparent about your sample selection mechanisms.
+   - Give credit to conceptual replications
+
+
+
+
+## References {.smaller}
+
+::: footer
+:::
